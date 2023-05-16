@@ -31,5 +31,6 @@ class Test_one(BaseClass):
         self.driver.find_element(By.XPATH, "//label[@for='checkbox2']").click()
         self.driver.find_element(By.CSS_SELECTOR, "input[class = 'btn btn-success btn-lg']").click()
         message = self.driver.find_element(By.XPATH, "//div[@class= 'alert alert-success alert-dismissible']").text
+        log.info("Starting the Validation")
         assert "×\nSuccess! Thank you! Your order will be delivered in next few weeks :-)." in message, "Validation " \
                                                                                                         "Failed"
