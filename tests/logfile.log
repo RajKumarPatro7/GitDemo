@@ -1,0 +1,13 @@
+2023-05-14 22:58:45,497 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="1b93b170c4576a0b0ff32df277455cc3", element="f719d189-11fa-43b7-ba84-c2cad8c3353b")>
+2023-05-14 22:58:45,506 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="1b93b170c4576a0b0ff32df277455cc3", element="114792ea-b5d0-4f86-8dfa-cd7f9b4ccb5a")>
+2023-05-14 22:58:45,513 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="1b93b170c4576a0b0ff32df277455cc3", element="fe0d9e69-7923-4872-86a8-e2098131b427")>
+2023-05-14 22:58:45,521 :INFO :test_e2e :<selenium.webdriver.remote.webelement.WebElement (session="1b93b170c4576a0b0ff32df277455cc3", element="95d04d6e-0e9d-4fcc-a1db-c38f954117e3")>
+2023-05-14 22:58:45,635 :INFO :test_e2e :Entering country 
+2023-05-14 23:00:10,287 :INFO :test_e2e :Blackberry
+2023-05-14 23:00:10,381 :INFO :test_e2e :Entering country 
+2023-05-14 23:03:59,579 :INFO :test_e2e :Blackberry
+2023-05-14 23:03:59,687 :INFO :test_e2e :Entering country 
+2023-05-14 23:20:24,149 :INFO :test_e2e :Blackberry
+2023-05-14 23:20:24,257 :INFO :test_e2e :Entering country 
+2023-05-14 23:22:10,020 :INFO :test_e2e :Blackberry
+2023-05-14 23:22:10,141 :INFO :test_e2e :Entering country 
